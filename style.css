@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+body {
+  font-family: "Indie Flower", sans-serif;
+  margin: 0px;
+}
+.header {
+  background-color: #fcd34d;
+  padding: 1rem 0rem;
+  text-align: center;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+.container textarea {
+  width: 80%;
+  margin: 1rem;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  font-family: inherit;
+}
+.btn {
+  margin: 0rem 1rem;
+  padding: 1rem;
+  background-color: #fcd34d;
+  font-family: "Indie Flower", sans-serif;
+  border-radius: 5%;
+  font-size: 1.2rem;
+}
+.container p {
+  margin: 0.5rem 1rem;
+}
+.outputText {
+  margin: 0rem 1rem;
+  border: solid 1px black;
+  width: 83%;
+  height: 5rem;
+  overflow: scroll;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+}
+
+.footer {
+  background-color: #fcd34d;
+  height: 19vh;
+  margin-top: 1vh;
+  text-align: center;
+}
+.footer p {
+  padding: 0.4rem 1rem;
+  margin: 0;
+  font-size: 1.1rem;
+}
+.footer h3 {
+  margin-block-end: 0em;
+}
