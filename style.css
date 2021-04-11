@@ -2,6 +2,7 @@
 body {
   font-family: "Indie Flower", sans-serif;
   margin: 0px;
+  background: url("image/background.jpg") no-repeat center center/cover;
 }
 .header {
   background-color: #fcd34d;
@@ -31,6 +32,7 @@ body {
   margin: 0.5rem 1rem;
 }
 .outputText {
+  background-color: white;
   margin: 0rem 1rem;
   border: solid 1px black;
   width: 83%;
